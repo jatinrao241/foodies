@@ -35,7 +35,7 @@
     border-radius:10px;
 }
 .background-image{
-    background-image:url(foodies\ image/bg-1.jpg);
+    background-image:url(foodies_image/bg-1.jpg);
     background-repeat:no-repeat;
     background-size:100% 100%;
 }
@@ -114,7 +114,7 @@
     padding-right:10px;
 }
 .story-section{
-    background-image:url(foodies\ image/bg-2.jpg);
+    background-image:url(foodies_image/bg-2.jpg);
     background-size:100% 100%;
     background-repeat:no-repeat;
 }
@@ -204,7 +204,7 @@
     text-align:justify;
 }
 .baked-background{
-    background-image:url(foodies\ image/bg-3.jpg);
+    background-image:url(foodies_image/bg-3.jpg);
     background-size:cover;
     background-repeat:no-repeat;
     background-attachment:fixed;
